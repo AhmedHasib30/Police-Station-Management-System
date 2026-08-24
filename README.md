@@ -56,4 +56,6 @@ The system manages police officers and criminal records and demonstrates fundame
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/AhmedHasib30/Police-Station-Management-System.git
+git@github.com:AhmedHasib30/Police-Station-Management-System.git
+gh repo clone AhmedHasib30/Police-Station-Management-System
+https://github.com/AhmedHasib30/Police-Station-Management-System.git
